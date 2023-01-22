@@ -1,0 +1,12 @@
+setup.py
+ButterlyImageClassifier.egg-info/PKG-INFO
+ButterlyImageClassifier.egg-info/SOURCES.txt
+ButterlyImageClassifier.egg-info/dependency_links.txt
+ButterlyImageClassifier.egg-info/top_level.txt
+src/__init__.py
+src/datasets.py
+src/model.py
+src/test.py
+src/train.py
+src/trainFormated.py
+src/utils.py

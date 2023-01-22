@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ButterlyImageClassifier
+Version: 0.1.0
+Summary: It tells the species of butterfly
+Author: A.H Revel
+Author-email: alihassanrevel@gmail.com
+Maintainer: A.H Revel
+Maintainer-email: alihassanrevel@gmail.com
+License: MIT
+Classifier: Development Status :: In progress
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python >= 3.7
+Classifier: Topic :: DataScience/Deeplearning/ComputerVision
